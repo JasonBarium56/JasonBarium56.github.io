@@ -1,8 +1,12 @@
-header {
+h1 {
     text-align: center;
 }
 
 body {
     background: rgb(50, 50, 50);
     color: green;
+}
+
+p {
+    color: red;
 }
